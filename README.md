@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @martialchess
-- 👀 I’m interested in cybersecurity and machine learning
-- 🌱 I’m currently taking a few networking courses and plan to learn python and ethical hacking after this
-- 💞️ I’m looking to collaborate on penetration testing projects in the future
-- 📫 How to reach me: DM me on instagram at @c0mmanderdata
+- 👀 I’m interested in backend development and machine learning
+- 🌱 I’m currently enrolled in courses related to fullstack development with a focus on backend.
+- 💞️ I’m looking to collaborate on projects for portfolio
+- 📫 How to reach me: DM me on instagram at @quantareads
 
 <!---
 martialchess/martialchess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
