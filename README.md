@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development and machine learning
 - 🌱 I’m currently enrolled in courses related to fullstack development with a focus on backend.
 - 💞️ I’m looking to collaborate on projects for portfolio
-- 📫 How to reach me: email me: ridamaliktech@gmail.com
+- 📫 How to reach me: ridamaliktech@gmail.com
 
 <!---
 martialchess/martialchess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
