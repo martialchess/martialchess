@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @martialchess
-- 👀 I’m interested in backend development and machine learning
-- 🌱 I’m currently enrolled in courses related to fullstack development with a focus on backend.
+- 👀 I’m interested in fullstack development (with a focus on backend) and AI Engineering.
 - 💞️ I’m looking to collaborate on projects for portfolio
 - 📫 How to reach me: ridamaliktech@gmail.com
 
